@@ -1,5 +1,2 @@
-# fggsfgfsgd
-
-kfenknbj jgwijhkfewjbkvskjbvkjbbkjgwekjbwebkfwe
-<br>
-bdkndl
+for i in range(1, 11):
+    print(i)
